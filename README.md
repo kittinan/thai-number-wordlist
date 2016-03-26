@@ -19,7 +19,19 @@ Mobile
 
 #Download
 
-[https://github.com/kittinan/thai-number-wordlist/raw/master/data.tar.bz2](https://github.com/kittinan/thai-number-wordlist/raw/master/data.tar.bz2)
+Not Available now
+
+
+
+#Compile
+
+###Requirement
+    - make
+    - php
+
+
+
+  Run make
 
 #Ref
 
